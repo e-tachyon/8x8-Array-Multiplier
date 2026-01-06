@@ -6,9 +6,13 @@
 This repo contains the designs of the 8x8 multiplier. There is an HDL design in Verilog, a schematic design in Cadence, and a full layout design in Cadence. The designs in Cadence were built on a tsmc35 library as this was what I had access to at the University.
 
 Transistor Count: 1854
+
 Process: tsmc35
+
 Core Logic: Zimmermann97 Mirror Adder
+
 Target Operating Voltage: 3.3V
+
 Area: 98,580um^2
 
 | Logic  | Transistors | Total Blocks | Size (um^2) |
